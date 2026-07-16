@@ -13,7 +13,7 @@ The goal of this project is to understand which factors or application character
 - Juptyer Notebook
 
 ## Project Files 
--`data_preprocessing.sql` – SQL queries used to inspect, clean, and prepare the data
+- `data_preprocessing.sql` – SQL queries used to inspect, clean, and prepare the data
 - `Exploratory_Data_Analysis.ipynb` – Python notebook containing exploratory analysis and visualizations
 - `playstore_revenue_analysis.csv` – Dataset used for the analysis
 
