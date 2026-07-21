@@ -1,5 +1,5 @@
 
-# Play Store Revenue Analysis
+# Play Store Revenue Analysis - Sample Project
 Exploratory Analysis of Google Play Store revenue data using SQL and Python. The analysis uses SQL for data processing and python for data analysis and visualization. 
 
 This project identifies patterns surrounding application revenue, user engagement, ratings, and screen time within Google Play Store's data. 
